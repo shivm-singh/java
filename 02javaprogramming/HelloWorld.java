@@ -10,7 +10,7 @@ public class HelloWorld {
     // Prints "Hello, World" to the terminal window.
     public static void main(String[] args)
     {
-        System.out.println("Hello  World is temporary but my detemination is permanent ");
+        System.out.println("World is temporary but my detemination is permanent ");
     String naam = "shivam";
      int age=40;
     System.out.println(naam);
